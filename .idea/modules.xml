@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/shop-cloud-config-server/shop-cloud-config-server.iml" filepath="$PROJECT_DIR$/eureka-server/shop-cloud-config-server/shop-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/shop-cloud-eureka-manager/shop-cloud-eureka-manager.iml" filepath="$PROJECT_DIR$/eureka-server/shop-cloud-eureka-manager/shop-cloud-eureka-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/shop-cloud-eureka-server/shop-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/shop-cloud-eureka-server/shop-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/shop-cloud-web/shop-cloud-web.iml" filepath="$PROJECT_DIR$/eureka-server/shop-cloud-web/shop-cloud-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/shop-cloud-eureka-manager/shop-manager-common/shop-manager-common.iml" filepath="$PROJECT_DIR$/eureka-server/shop-cloud-eureka-manager/shop-manager-common/shop-manager-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/shop-cloud-eureka-manager/shop-manager-feign/shop-manager-feign.iml" filepath="$PROJECT_DIR$/eureka-server/shop-cloud-eureka-manager/shop-manager-feign/shop-manager-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/shop-cloud-eureka-manager/shop-manager-service/shop-manager-service.iml" filepath="$PROJECT_DIR$/eureka-server/shop-cloud-eureka-manager/shop-manager-service/shop-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shopxx.iml" filepath="$PROJECT_DIR$/.idea/shopxx.iml" />
+    </modules>
+  </component>
+</project>

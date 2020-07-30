@@ -1,0 +1,5 @@
+com\jk\interfaces\TestApi.class
+com\jk\pojo\IdWorker.class
+com\jk\entity\Test.class
+com\jk\pojo\HttpclientUtils.class
+com\jk\pojo\Result.class
